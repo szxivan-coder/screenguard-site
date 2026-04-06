@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ScreenAutoOn | ScreenGuard</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f6f8fc;
+      --card: #ffffff;
+      --text: #172033;
+      --muted: #667089;
+      --accent: #4d73ff;
+      --border: #dbe2f0;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: linear-gradient(180deg, #eef3ff 0%, var(--bg) 28%, #ffffff 100%);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    .wrap {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    .hero, .card {
+      background: rgba(255,255,255,.92);
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      box-shadow: 0 18px 48px rgba(61, 86, 178, 0.08);
+    }
+    .hero {
+      padding: 40px 32px;
+      margin-bottom: 24px;
+    }
+    .eyebrow {
+      display: inline-block;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: #edf2ff;
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+    }
+    h1 {
+      margin: 16px 0 12px;
+      font-size: clamp(36px, 6vw, 56px);
+      line-height: 1.05;
+    }
+    .lead {
+      margin: 0;
+      max-width: 720px;
+      color: var(--muted);
+      font-size: 18px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 20px;
+    }
+    .card {
+      padding: 24px;
+    }
+    h2 {
+      margin: 0 0 12px;
+      font-size: 20px;
+    }
+    ul {
+      margin: 0;
+      padding-left: 18px;
+    }
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    a:hover { text-decoration: underline; }
+    .footer {
+      margin-top: 24px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="hero">
+      <span class="eyebrow">ScreenAutoOn</span>
+      <h1>Keep your Mac awake at the right time.</h1>
+      <p class="lead">
+        ScreenAutoOn is a Mac menu bar utility with an iPhone companion app. Keep your Mac awake manually or when selected apps are active, check status from iPhone, and request sleep remotely with Pro.
+      </p>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <h2>Core Features</h2>
+        <ul>
+          <li>Keep your Mac awake from the menu bar</li>
+          <li>Prevent unwanted sleep during long-running work</li>
+          <li>Automatically respond to selected app activity</li>
+          <li>Manage monitored apps</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <h2>iPhone Companion</h2>
+        <ul>
+          <li>View monitored app status from iPhone</li>
+          <li>Designed for the same Apple ID workflow</li>
+          <li>Request Mac sleep remotely with Pro</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <h2>Privacy and Purchases</h2>
+        <ul>
+          <li>No custom account system</li>
+          <li>No email sign-up or third-party login</li>
+          <li>Sync uses iCloud / CloudKit</li>
+          <li>Purchases and subscriptions use Apple StoreKit</li>
+        </ul>
+      </article>
+    </section>
+
+    <section class="card" style="margin-top: 24px;">
+      <h2>Links</h2>
+      <p><a href="privacy.html">Privacy Policy</a></p>
+      <p><a href="support.html">Support</a></p>
+      <p class="footer">Contact: <a href="mailto:szx_ivan@163.com">szx_ivan@163.com</a></p>
+    </section>
+  </main>
+</body>
+</html>
