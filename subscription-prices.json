@@ -1,0 +1,3343 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-30T13:07:47.227Z",
+  "source": "app-store-connect-api",
+  "appId": "6761487493",
+  "products": {
+    "com.screenguard.pro.annual": {
+      "subscriptionId": "6761512242",
+      "territories": {
+        "AFG": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "AGO": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "AIA": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "ALB": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "ARE": {
+          "currency": "AED",
+          "current": {
+            "amount": "49.99",
+            "display": "AED 49.99"
+          },
+          "introductoryOffer": null
+        },
+        "ARG": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "ARM": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "ATG": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "AUS": {
+          "currency": "AUD",
+          "current": {
+            "amount": "19.99",
+            "display": "$19.99"
+          },
+          "introductoryOffer": null
+        },
+        "AUT": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "AZE": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "BEL": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "BEN": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "BFA": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "BGR": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "BHR": {
+          "currency": "USD",
+          "current": {
+            "amount": "12.99",
+            "display": "$12.99"
+          },
+          "introductoryOffer": null
+        },
+        "BHS": {
+          "currency": "USD",
+          "current": {
+            "amount": "12.99",
+            "display": "$12.99"
+          },
+          "introductoryOffer": null
+        },
+        "BIH": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "BLR": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "BLZ": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "BMU": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "BOL": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "BRA": {
+          "currency": "BRL",
+          "current": {
+            "amount": "79.9",
+            "display": "R$79.90"
+          },
+          "introductoryOffer": null
+        },
+        "BRB": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "BRN": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "BTN": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "BWA": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "CAN": {
+          "currency": "CAD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "CHE": {
+          "currency": "CHF",
+          "current": {
+            "amount": "10.0",
+            "display": "CHF 10"
+          },
+          "introductoryOffer": null
+        },
+        "CHL": {
+          "currency": "CLP",
+          "current": {
+            "amount": "12990",
+            "display": "$12,990"
+          },
+          "introductoryOffer": null
+        },
+        "CHN": {
+          "currency": "CNY",
+          "current": {
+            "amount": "12.0",
+            "display": "¥12"
+          },
+          "introductoryOffer": null
+        },
+        "CIV": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "CMR": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "COD": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "COG": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "COL": {
+          "currency": "COP",
+          "current": {
+            "amount": "59900.0",
+            "display": "$59,900"
+          },
+          "introductoryOffer": null
+        },
+        "CPV": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "CRI": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "CYM": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "CYP": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "CZE": {
+          "currency": "CZK",
+          "current": {
+            "amount": "299.0",
+            "display": "Kč 299"
+          },
+          "introductoryOffer": null
+        },
+        "DEU": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "DMA": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "DNK": {
+          "currency": "DKK",
+          "current": {
+            "amount": "99.0",
+            "display": "kr 99"
+          },
+          "introductoryOffer": null
+        },
+        "DOM": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "DZA": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "ECU": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "EGY": {
+          "currency": "EGP",
+          "current": {
+            "amount": "599.99",
+            "display": "E£599.99"
+          },
+          "introductoryOffer": null
+        },
+        "ESP": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "EST": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "FIN": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "FJI": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "FRA": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "FSM": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "GAB": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "GBR": {
+          "currency": "GBP",
+          "current": {
+            "amount": "11.99",
+            "display": "£11.99"
+          },
+          "introductoryOffer": null
+        },
+        "GEO": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "GHA": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "GMB": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "GNB": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "GRC": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "GRD": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "GTM": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "GUY": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "HKG": {
+          "currency": "HKD",
+          "current": {
+            "amount": "24.0",
+            "display": "$24"
+          },
+          "introductoryOffer": null
+        },
+        "HND": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "HRV": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "HUN": {
+          "currency": "HUF",
+          "current": {
+            "amount": "4990",
+            "display": "Ft 4,990"
+          },
+          "introductoryOffer": null
+        },
+        "IDN": {
+          "currency": "IDR",
+          "current": {
+            "amount": "199000",
+            "display": "Rp 199,000"
+          },
+          "introductoryOffer": null
+        },
+        "IND": {
+          "currency": "INR",
+          "current": {
+            "amount": "1199.0",
+            "display": "₹1,199"
+          },
+          "introductoryOffer": null
+        },
+        "IRL": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "IRQ": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "ISL": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "ISR": {
+          "currency": "ILS",
+          "current": {
+            "amount": "39.9",
+            "display": "₪39.90"
+          },
+          "introductoryOffer": null
+        },
+        "ITA": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "JAM": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "JOR": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "JPN": {
+          "currency": "JPY",
+          "current": {
+            "amount": "2000",
+            "display": "¥2,000"
+          },
+          "introductoryOffer": null
+        },
+        "KAZ": {
+          "currency": "KZT",
+          "current": {
+            "amount": "6990.0",
+            "display": "₸6,990"
+          },
+          "introductoryOffer": null
+        },
+        "KEN": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "KGZ": {
+          "currency": "USD",
+          "current": {
+            "amount": "12.99",
+            "display": "$12.99"
+          },
+          "introductoryOffer": null
+        },
+        "KHM": {
+          "currency": "USD",
+          "current": {
+            "amount": "12.99",
+            "display": "$12.99"
+          },
+          "introductoryOffer": null
+        },
+        "KNA": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "KOR": {
+          "currency": "KRW",
+          "current": {
+            "amount": "17000",
+            "display": "₩17,000"
+          },
+          "introductoryOffer": null
+        },
+        "KWT": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "LAO": {
+          "currency": "USD",
+          "current": {
+            "amount": "12.99",
+            "display": "$12.99"
+          },
+          "introductoryOffer": null
+        },
+        "LBN": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "LBR": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "LBY": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "LCA": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "LKA": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "LTU": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "LUX": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "LVA": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "MAC": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "MAR": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "MDA": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "MDG": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "MDV": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "MEX": {
+          "currency": "MXN",
+          "current": {
+            "amount": "249.0",
+            "display": "$249"
+          },
+          "introductoryOffer": null
+        },
+        "MKD": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "MLI": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "MLT": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "MMR": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "MNE": {
+          "currency": "EUR",
+          "current": {
+            "amount": "9.99",
+            "display": "€9.99"
+          },
+          "introductoryOffer": null
+        },
+        "MNG": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "MOZ": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "MRT": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "MSR": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "MUS": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "MWI": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "MYS": {
+          "currency": "MYR",
+          "current": {
+            "amount": "59.9",
+            "display": "RM 59.90"
+          },
+          "introductoryOffer": null
+        },
+        "NAM": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "NER": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "NGA": {
+          "currency": "NGN",
+          "current": {
+            "amount": "19900.0",
+            "display": "₦19,900"
+          },
+          "introductoryOffer": null
+        },
+        "NIC": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "NLD": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "NOR": {
+          "currency": "NOK",
+          "current": {
+            "amount": "149.0",
+            "display": "kr 149"
+          },
+          "introductoryOffer": null
+        },
+        "NPL": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "NRU": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "NZL": {
+          "currency": "NZD",
+          "current": {
+            "amount": "19.99",
+            "display": "$19.99"
+          },
+          "introductoryOffer": null
+        },
+        "OMN": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "PAK": {
+          "currency": "PKR",
+          "current": {
+            "amount": "3500.0",
+            "display": "Rs 3,500"
+          },
+          "introductoryOffer": null
+        },
+        "PAN": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "PER": {
+          "currency": "PEN",
+          "current": {
+            "amount": "49.9",
+            "display": "PEN 49.90"
+          },
+          "introductoryOffer": null
+        },
+        "PHL": {
+          "currency": "PHP",
+          "current": {
+            "amount": "799.0",
+            "display": "₱799"
+          },
+          "introductoryOffer": null
+        },
+        "PLW": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "PNG": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "POL": {
+          "currency": "PLN",
+          "current": {
+            "amount": "49.99",
+            "display": "zł 49.99"
+          },
+          "introductoryOffer": null
+        },
+        "PRT": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "PRY": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "QAT": {
+          "currency": "QAR",
+          "current": {
+            "amount": "39.99",
+            "display": "QAR 39.99"
+          },
+          "introductoryOffer": null
+        },
+        "ROU": {
+          "currency": "RON",
+          "current": {
+            "amount": "69.99",
+            "display": "lei 69.99"
+          },
+          "introductoryOffer": null
+        },
+        "RUS": {
+          "currency": "RUB",
+          "current": {
+            "amount": "999.0",
+            "display": "₽999"
+          },
+          "introductoryOffer": null
+        },
+        "RWA": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "SAU": {
+          "currency": "SAR",
+          "current": {
+            "amount": "49.99",
+            "display": "SAR 49.99"
+          },
+          "introductoryOffer": null
+        },
+        "SEN": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "SGP": {
+          "currency": "SGD",
+          "current": {
+            "amount": "17.98",
+            "display": "$17.98"
+          },
+          "introductoryOffer": null
+        },
+        "SLB": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "SLE": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "SLV": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "SRB": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "STP": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "SUR": {
+          "currency": "USD",
+          "current": {
+            "amount": "12.99",
+            "display": "$12.99"
+          },
+          "introductoryOffer": null
+        },
+        "SVK": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "SVN": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "SWE": {
+          "currency": "SEK",
+          "current": {
+            "amount": "149.0",
+            "display": "kr 149"
+          },
+          "introductoryOffer": null
+        },
+        "SWZ": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "SYC": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "TCA": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "TCD": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "THA": {
+          "currency": "THB",
+          "current": {
+            "amount": "399.0",
+            "display": "฿399"
+          },
+          "introductoryOffer": null
+        },
+        "TJK": {
+          "currency": "USD",
+          "current": {
+            "amount": "12.99",
+            "display": "$12.99"
+          },
+          "introductoryOffer": null
+        },
+        "TKM": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "TON": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "TTO": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "TUN": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "TUR": {
+          "currency": "TRY",
+          "current": {
+            "amount": "599.99",
+            "display": "₺599.99"
+          },
+          "introductoryOffer": null
+        },
+        "TWN": {
+          "currency": "TWD",
+          "current": {
+            "amount": "390",
+            "display": "$390"
+          },
+          "introductoryOffer": null
+        },
+        "TZA": {
+          "currency": "TZS",
+          "current": {
+            "amount": "34900.0",
+            "display": "TZS 34,900"
+          },
+          "introductoryOffer": null
+        },
+        "UGA": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "UKR": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "URY": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "USA": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "UZB": {
+          "currency": "USD",
+          "current": {
+            "amount": "12.99",
+            "display": "$12.99"
+          },
+          "introductoryOffer": null
+        },
+        "VCT": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "VEN": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "VGB": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "VNM": {
+          "currency": "VND",
+          "current": {
+            "amount": "399000",
+            "display": "₫399,000"
+          },
+          "introductoryOffer": null
+        },
+        "VUT": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "XKS": {
+          "currency": "EUR",
+          "current": {
+            "amount": "12.99",
+            "display": "€12.99"
+          },
+          "introductoryOffer": null
+        },
+        "YEM": {
+          "currency": "USD",
+          "current": {
+            "amount": "11.99",
+            "display": "$11.99"
+          },
+          "introductoryOffer": null
+        },
+        "ZAF": {
+          "currency": "ZAR",
+          "current": {
+            "amount": "249.99",
+            "display": "R 249.99"
+          },
+          "introductoryOffer": null
+        },
+        "ZMB": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        },
+        "ZWE": {
+          "currency": "USD",
+          "current": {
+            "amount": "14.99",
+            "display": "$14.99"
+          },
+          "introductoryOffer": null
+        }
+      }
+    },
+    "com.screenguard.pro.monthly": {
+      "subscriptionId": "6761506277",
+      "territories": {
+        "AFG": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "AGO": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "AIA": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "ALB": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "ARE": {
+          "currency": "AED",
+          "current": {
+            "amount": "7.99",
+            "display": "AED 7.99"
+          },
+          "introductoryOffer": {
+            "amount": "2.99",
+            "display": "AED 2.99"
+          }
+        },
+        "ARG": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "ARM": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "ATG": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "AUS": {
+          "currency": "AUD",
+          "current": {
+            "amount": "2.99",
+            "display": "$2.99"
+          },
+          "introductoryOffer": {
+            "amount": "1.99",
+            "display": "$1.99"
+          }
+        },
+        "AUT": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "AZE": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "BEL": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "BEN": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "BFA": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "BGR": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "BHR": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "BHS": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "BIH": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "BLR": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "BLZ": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "BMU": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "BOL": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "BRA": {
+          "currency": "BRL",
+          "current": {
+            "amount": "12.9",
+            "display": "R$12.90"
+          },
+          "introductoryOffer": {
+            "amount": "6.9",
+            "display": "R$6.90"
+          }
+        },
+        "BRB": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "BRN": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "BTN": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "BWA": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "CAN": {
+          "currency": "CAD",
+          "current": {
+            "amount": "2.99",
+            "display": "$2.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "CHE": {
+          "currency": "CHF",
+          "current": {
+            "amount": "2.0",
+            "display": "CHF 2"
+          },
+          "introductoryOffer": {
+            "amount": "1.0",
+            "display": "CHF 1"
+          }
+        },
+        "CHL": {
+          "currency": "CLP",
+          "current": {
+            "amount": "1990",
+            "display": "$1,990"
+          },
+          "introductoryOffer": {
+            "amount": "990",
+            "display": "$990"
+          }
+        },
+        "CHN": {
+          "currency": "CNY",
+          "current": {
+            "amount": "2.0",
+            "display": "¥2"
+          },
+          "introductoryOffer": {
+            "amount": "1.0",
+            "display": "¥1"
+          }
+        },
+        "CIV": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "CMR": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "COD": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "COG": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "COL": {
+          "currency": "COP",
+          "current": {
+            "amount": "9900.0",
+            "display": "$9,900"
+          },
+          "introductoryOffer": {
+            "amount": "4900.0",
+            "display": "$4,900"
+          }
+        },
+        "CPV": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "CRI": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "CYM": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "CYP": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "CZE": {
+          "currency": "CZK",
+          "current": {
+            "amount": "49.0",
+            "display": "Kč 49"
+          },
+          "introductoryOffer": {
+            "amount": "29.0",
+            "display": "Kč 29"
+          }
+        },
+        "DEU": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "DMA": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "DNK": {
+          "currency": "DKK",
+          "current": {
+            "amount": "19.0",
+            "display": "kr 19"
+          },
+          "introductoryOffer": {
+            "amount": "9.0",
+            "display": "kr 9"
+          }
+        },
+        "DOM": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "DZA": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "ECU": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "EGY": {
+          "currency": "EGP",
+          "current": {
+            "amount": "99.99",
+            "display": "E£99.99"
+          },
+          "introductoryOffer": {
+            "amount": "49.99",
+            "display": "E£49.99"
+          }
+        },
+        "ESP": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "EST": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "FIN": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "FJI": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "FRA": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "FSM": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "GAB": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "GBR": {
+          "currency": "GBP",
+          "current": {
+            "amount": "1.99",
+            "display": "£1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "£0.99"
+          }
+        },
+        "GEO": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "GHA": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "GMB": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "GNB": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "GRC": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "GRD": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "GTM": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "GUY": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "HKG": {
+          "currency": "HKD",
+          "current": {
+            "amount": "6.0",
+            "display": "$6"
+          },
+          "introductoryOffer": {
+            "amount": "4.0",
+            "display": "$4"
+          }
+        },
+        "HND": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "HRV": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "HUN": {
+          "currency": "HUF",
+          "current": {
+            "amount": "999",
+            "display": "Ft 999"
+          },
+          "introductoryOffer": {
+            "amount": "499",
+            "display": "Ft 499"
+          }
+        },
+        "IDN": {
+          "currency": "IDR",
+          "current": {
+            "amount": "29000",
+            "display": "Rp 29,000"
+          },
+          "introductoryOffer": {
+            "amount": "19000",
+            "display": "Rp 19,000"
+          }
+        },
+        "IND": {
+          "currency": "INR",
+          "current": {
+            "amount": "199.0",
+            "display": "₹199"
+          },
+          "introductoryOffer": {
+            "amount": "99.0",
+            "display": "₹99"
+          }
+        },
+        "IRL": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "IRQ": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "ISL": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "ISR": {
+          "currency": "ILS",
+          "current": {
+            "amount": "7.9",
+            "display": "₪7.90"
+          },
+          "introductoryOffer": {
+            "amount": "2.9",
+            "display": "₪2.90"
+          }
+        },
+        "ITA": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "JAM": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "JOR": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "JPN": {
+          "currency": "JPY",
+          "current": {
+            "amount": "300",
+            "display": "¥300"
+          },
+          "introductoryOffer": {
+            "amount": "150",
+            "display": "¥150"
+          }
+        },
+        "KAZ": {
+          "currency": "KZT",
+          "current": {
+            "amount": "999.0",
+            "display": "₸999"
+          },
+          "introductoryOffer": {
+            "amount": "499.0",
+            "display": "₸499"
+          }
+        },
+        "KEN": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "KGZ": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "KHM": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "KNA": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "KOR": {
+          "currency": "KRW",
+          "current": {
+            "amount": "3300",
+            "display": "₩3,300"
+          },
+          "introductoryOffer": {
+            "amount": "1100",
+            "display": "₩1,100"
+          }
+        },
+        "KWT": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "LAO": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "LBN": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "LBR": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "LBY": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "LCA": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "LKA": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "LTU": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "LUX": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "LVA": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "MAC": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "MAR": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "MDA": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "MDG": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "MDV": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "MEX": {
+          "currency": "MXN",
+          "current": {
+            "amount": "39.0",
+            "display": "$39"
+          },
+          "introductoryOffer": {
+            "amount": "19.0",
+            "display": "$19"
+          }
+        },
+        "MKD": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "MLI": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "MLT": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "MMR": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "MNE": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "MNG": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "MOZ": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "MRT": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "MSR": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "MUS": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "MWI": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "MYS": {
+          "currency": "MYR",
+          "current": {
+            "amount": "9.9",
+            "display": "RM 9.90"
+          },
+          "introductoryOffer": {
+            "amount": "4.9",
+            "display": "RM 4.90"
+          }
+        },
+        "NAM": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "NER": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "NGA": {
+          "currency": "NGN",
+          "current": {
+            "amount": "3200.0",
+            "display": "₦3,200"
+          },
+          "introductoryOffer": {
+            "amount": "1500.0",
+            "display": "₦1,500"
+          }
+        },
+        "NIC": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "NLD": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "NOR": {
+          "currency": "NOK",
+          "current": {
+            "amount": "29.0",
+            "display": "kr 29"
+          },
+          "introductoryOffer": {
+            "amount": "9.0",
+            "display": "kr 9"
+          }
+        },
+        "NPL": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "NRU": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "NZL": {
+          "currency": "NZD",
+          "current": {
+            "amount": "3.99",
+            "display": "$3.99"
+          },
+          "introductoryOffer": {
+            "amount": "1.99",
+            "display": "$1.99"
+          }
+        },
+        "OMN": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "PAK": {
+          "currency": "PKR",
+          "current": {
+            "amount": "500.0",
+            "display": "Rs 500"
+          },
+          "introductoryOffer": {
+            "amount": "300.0",
+            "display": "Rs 300"
+          }
+        },
+        "PAN": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "PER": {
+          "currency": "PEN",
+          "current": {
+            "amount": "9.9",
+            "display": "PEN 9.90"
+          },
+          "introductoryOffer": {
+            "amount": "4.9",
+            "display": "PEN 4.90"
+          }
+        },
+        "PHL": {
+          "currency": "PHP",
+          "current": {
+            "amount": "129.0",
+            "display": "₱129"
+          },
+          "introductoryOffer": {
+            "amount": "49.0",
+            "display": "₱49"
+          }
+        },
+        "PLW": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "PNG": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "POL": {
+          "currency": "PLN",
+          "current": {
+            "amount": "9.99",
+            "display": "zł 9.99"
+          },
+          "introductoryOffer": {
+            "amount": "4.99",
+            "display": "zł 4.99"
+          }
+        },
+        "PRT": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "PRY": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "QAT": {
+          "currency": "QAR",
+          "current": {
+            "amount": "7.99",
+            "display": "QAR 7.99"
+          },
+          "introductoryOffer": {
+            "amount": "2.99",
+            "display": "QAR 2.99"
+          }
+        },
+        "ROU": {
+          "currency": "RON",
+          "current": {
+            "amount": "9.99",
+            "display": "lei 9.99"
+          },
+          "introductoryOffer": {
+            "amount": "4.99",
+            "display": "lei 4.99"
+          }
+        },
+        "RUS": {
+          "currency": "RUB",
+          "current": {
+            "amount": "199.0",
+            "display": "₽199"
+          },
+          "introductoryOffer": {
+            "amount": "99.0",
+            "display": "₽99"
+          }
+        },
+        "RWA": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "SAU": {
+          "currency": "SAR",
+          "current": {
+            "amount": "9.99",
+            "display": "SAR 9.99"
+          },
+          "introductoryOffer": {
+            "amount": "4.99",
+            "display": "SAR 4.99"
+          }
+        },
+        "SEN": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "SGP": {
+          "currency": "SGD",
+          "current": {
+            "amount": "2.98",
+            "display": "$2.98"
+          },
+          "introductoryOffer": {
+            "amount": "0.98",
+            "display": "$0.98"
+          }
+        },
+        "SLB": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "SLE": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "SLV": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "SRB": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "STP": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "SUR": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "SVK": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "SVN": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "SWE": {
+          "currency": "SEK",
+          "current": {
+            "amount": "29.0",
+            "display": "kr 29"
+          },
+          "introductoryOffer": {
+            "amount": "9.0",
+            "display": "kr 9"
+          }
+        },
+        "SWZ": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "SYC": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "TCA": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "TCD": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "THA": {
+          "currency": "THB",
+          "current": {
+            "amount": "79.0",
+            "display": "฿79"
+          },
+          "introductoryOffer": {
+            "amount": "29.0",
+            "display": "฿29"
+          }
+        },
+        "TJK": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "TKM": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "TON": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "TTO": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "TUN": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "TUR": {
+          "currency": "TRY",
+          "current": {
+            "amount": "99.99",
+            "display": "₺99.99"
+          },
+          "introductoryOffer": {
+            "amount": "49.99",
+            "display": "₺49.99"
+          }
+        },
+        "TWN": {
+          "currency": "TWD",
+          "current": {
+            "amount": "60",
+            "display": "$60"
+          },
+          "introductoryOffer": {
+            "amount": "30",
+            "display": "$30"
+          }
+        },
+        "TZA": {
+          "currency": "TZS",
+          "current": {
+            "amount": "5900.0",
+            "display": "TZS 5,900"
+          },
+          "introductoryOffer": {
+            "amount": "2900.0",
+            "display": "TZS 2,900"
+          }
+        },
+        "UGA": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "UKR": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "URY": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "USA": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "UZB": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "VCT": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "VEN": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "VGB": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "VNM": {
+          "currency": "VND",
+          "current": {
+            "amount": "59000",
+            "display": "₫59,000"
+          },
+          "introductoryOffer": {
+            "amount": "29000",
+            "display": "₫29,000"
+          }
+        },
+        "VUT": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "XKS": {
+          "currency": "EUR",
+          "current": {
+            "amount": "1.99",
+            "display": "€1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "€0.99"
+          }
+        },
+        "YEM": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "ZAF": {
+          "currency": "ZAR",
+          "current": {
+            "amount": "39.99",
+            "display": "R 39.99"
+          },
+          "introductoryOffer": {
+            "amount": "19.99",
+            "display": "R 19.99"
+          }
+        },
+        "ZMB": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        },
+        "ZWE": {
+          "currency": "USD",
+          "current": {
+            "amount": "1.99",
+            "display": "$1.99"
+          },
+          "introductoryOffer": {
+            "amount": "0.99",
+            "display": "$0.99"
+          }
+        }
+      }
+    }
+  }
+}
